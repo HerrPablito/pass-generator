@@ -12,3 +12,26 @@
   width: 375px;
   height: 812px;
 }
+
+.btn {
+  font-size: 20px;
+  background-color: white;
+  color: #15085f;
+  width: 311px;
+  height: 62px;
+}
+
+small {
+  font-size: 14px;
+  background-color: #ffbd21;
+  color: #15085f;
+  border-radius: 8px 8px 0px 0px;
+  padding: 2px 8px;
+}
+input {
+  border-radius: 0px 4px 4px 4px;
+  height: 62px;
+  background-color: #15085f;
+  border: 1px solid #ffbd21;
+  margin: 0 0 2rem 0;
+}
