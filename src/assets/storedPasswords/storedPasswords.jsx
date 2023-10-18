@@ -1,5 +1,5 @@
 import "./storedPasswords.scss";
-import logo from "../../assets/images/logo.svg";
+import logo from "../../images/Logo.svg";
 
 
 function StoredPasswords() {
